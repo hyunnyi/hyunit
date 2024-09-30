@@ -1,3 +1,4 @@
+hi
 #!/user/bin/env bash
 
 SDCARD_PATH=/media/user/bootfs
